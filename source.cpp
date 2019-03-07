@@ -1,6 +1,3 @@
-//Project 1 -- Arrays 
-//Created and submitted by Anna Collins 
-
 #include <iostream>
 #include <string>
 #include <fstream>
